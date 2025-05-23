@@ -43,6 +43,7 @@ Table of Content:
 /*=================== fonts ====================*/
 @import url("https://fonts.googleapis.com/css?family=Heebo:300,400,500,700|Roboto:300,400,500,700");
 /*---------------------------------------------------- */
+
 /*----------------------------------------------------*/
 .list {
   list-style: none;
@@ -2846,7 +2847,7 @@ h6 {
 .projects_inner {
   margin-bottom: -30px; }
 
-.projects_item {
+/* .projects_item {
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -2884,7 +2885,7 @@ h6 {
   .projects_item:hover .projects_text h4 {
     background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; }
+    -webkit-text-fill-color: transparent; } */
 
 /* End Projects Area css
 ============================================================================================ */

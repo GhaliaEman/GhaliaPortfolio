@@ -144,6 +144,7 @@ button:focus {
     background: transparent;
     padding: 0px;
     border: 0px;
+    position: sticky;
     border-radius: 0px; }
     .header_area .navbar .nav .nav-item {
       margin-right: 45px; }
